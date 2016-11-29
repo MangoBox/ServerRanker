@@ -1,0 +1,604 @@
+If_Unknown_Rank_XP:
+  fallbackRank: 1000
+Max_Rank:
+  maxRank: 300
+XP_Per_Rank:
+  '1': 100
+  '2': 100
+  '3': 100
+  '4': 100
+  '5': 100
+  '6': 100
+  '7': 100
+  '8': 100
+  '9': 100
+  '10': 200
+  '11': 200
+  '12': 200
+  '13': 200
+  '14': 200
+  '15': 200
+  '16': 200
+  '17': 200
+  '18': 200
+  '19': 200
+  '20': 300
+  '21': 300
+  '22': 300
+  '23': 300
+  '24': 300
+  '25': 300
+  '26': 300
+  '27': 300
+  '28': 300
+  '29': 300
+  '30': 400
+  '31': 400
+  '32': 400
+  '33': 400
+  '34': 400
+  '35': 400
+  '36': 400
+  '37': 400
+  '38': 400
+  '39': 400
+  '40': 500
+  '41': 500
+  '42': 500
+  '43': 500
+  '44': 500
+  '45': 500
+  '46': 500
+  '47': 500
+  '48': 500
+  '49': 500
+  '50': 600
+  '51': 600
+  '52': 600
+  '53': 600
+  '54': 600
+  '55': 600
+  '56': 600
+  '57': 600
+  '58': 600
+  '59': 600
+  '60': 700
+  '61': 700
+  '62': 700
+  '63': 700
+  '64': 700
+  '65': 700
+  '66': 700
+  '67': 700
+  '68': 700
+  '69': 700
+  '70': 800
+  '71': 800
+  '72': 800
+  '73': 800
+  '74': 800
+  '75': 800
+  '76': 800
+  '77': 800
+  '78': 800
+  '79': 800
+  '80': 900
+  '81': 900
+  '82': 900
+  '83': 900
+  '84': 900
+  '85': 900
+  '86': 900
+  '87': 900
+  '88': 900
+  '89': 900
+  '90': 1000
+  '91': 1000
+  '92': 1000
+  '93': 1000
+  '94': 1000
+  '95': 1000
+  '96': 1000
+  '97': 1000
+  '98': 1000
+  '99': 1000
+  '100': 1200
+  '101': 1200
+  '102': 1200
+  '103': 1200
+  '104': 1200
+  '105': 1200
+  '106': 1200
+  '107': 1200
+  '108': 1200
+  '109': 1200
+  '110': 1400
+  '111': 1400
+  '112': 1400
+  '113': 1400
+  '114': 1400
+  '115': 1400
+  '116': 1400
+  '117': 1400
+  '118': 1400
+  '119': 1400
+  '120': 1600
+  '121': Noble
+  '122': Noble
+  '123': Noble
+  '124': Noble
+  '125': Noble
+  '126': Noble
+  '127': Noble
+  '128': Noble
+  '129': Noble
+  '130': Knight
+  '131': Knight
+  '132': Knight
+  '133': Knight
+  '134': Knight
+  '135': Knight
+  '136': Knight
+  '137': Knight
+  '138': Knight
+  '139': Knight
+  '140': Warrior
+  '141': Warrior
+  '142': Warrior
+  '143': Warrior
+  '144': Warrior
+  '145': Warrior
+  '146': Warrior
+  '147': Warrior
+  '148': Warrior
+  '149': Warrior
+  '150': Advanced Warrior
+  '151': Advanced Warrior
+  '152': Advanced Warrior
+  '153': Advanced Warrior
+  '154': Advanced Warrior
+  '155': Advanced Warrior
+  '156': Advanced Warrior
+  '157': Advanced Warrior
+  '158': Advanced Warrior
+  '159': Advanced Warrior
+  '160': Prestige
+  '161': Prestige
+  '162': Prestige
+  '163': Prestige
+  '164': Prestige
+  '165': Prestige
+  '166': Prestige
+  '167': Prestige
+  '168': Prestige
+  '169': Prestige
+  '170': Leader
+  '171': Leader
+  '172': Leader
+  '173': Leader
+  '174': Leader
+  '175': Leader
+  '176': Leader
+  '177': Leader
+  '178': Leader
+  '179': Leader
+  '180': Superior Leader
+  '181': Superior Leader
+  '182': Superior Leader
+  '183': Superior Leader
+  '184': Superior Leader
+  '185': Superior Leader
+  '186': Superior Leader
+  '187': Superior Leader
+  '188': Superior Leader
+  '189': Superior Leader
+  '190': Supreme Leader
+  '191': Supreme Leader
+  '192': Supreme Leader
+  '193': Supreme Leader
+  '194': Supreme Leader
+  '195': Supreme Leader
+  '196': Supreme Leader
+  '197': Supreme Leader
+  '198': Supreme Leader
+  '199': Supreme Leader
+  '200': Master Leader
+  '201': Master Leader
+  '203': Master Leader
+  '204': Master Leader
+  '205': Master Leader
+  '206': Master Leader
+  '207': Master Leader
+  '208': Master Leader
+  '209': Master Leader
+  '210': Veteran
+  '211': Veteran
+  '212': Veteran
+  '213': Veteran
+  '214': Veteran
+  '215': Veteran
+  '216': Veteran
+  '217': Veteran
+  '218': Veteran
+  '219': Veteran
+  '220': Advanced Veteran
+  '221': Advanced Veteran
+  '222': Advanced Veteran
+  '223': Advanced Veteran
+  '224': Advanced Veteran
+  '225': Advanced Veteran
+  '226': Advanced Veteran
+  '227': Advanced Veteran
+  '228': Advanced Veteran
+  '229': Advanced Veteran
+  '230': Extreme Veteran
+  '231': Extreme Veteran
+  '232': Extreme Veteran
+  '233': Extreme Veteran
+  '234': Extreme Veteran
+  '235': Extreme Veteran
+  '236': Extreme Veteran
+  '237': Extreme Veteran
+  '238': Extreme Veteran
+  '239': Extreme Veteran
+  '240': Titan
+  '241': Titan
+  '242': Titan
+  '243': Titan
+  '244': Titan
+  '245': Titan
+  '246': Titan
+  '247': Titan
+  '248': Titan
+  '249': Titan
+  '250': Legend
+  '251': Legend
+  '252': Legend
+  '253': Legend
+  '254': Legend
+  '255': Legend
+  '256': Legend
+  '257': Legend
+  '258': Legend
+  '259': Legend
+  '260': Expert Survivor
+  '261': Expert Survivor
+  '262': Expert Survivor
+  '263': Expert Survivor
+  '264': Expert Survivor
+  '265': Expert Survivor
+  '266': Expert Survivor
+  '267': Expert Survivor
+  '268': Expert Survivor
+  '269': Expert Survivor
+  '270': Extreme Survivor
+  '271': Extreme Survivor
+  '272': Extreme Survivor
+  '273': Extreme Survivor
+  '274': Extreme Survivor
+  '275': Extreme Survivor
+  '276': Extreme Survivor
+  '277': Extreme Survivor
+  '278': Extreme Survivor
+  '279': Extreme Survivor
+  '280': Master Survivor
+  '281': Master Survivor
+  '282': Master Survivor
+  '283': Master Survivor
+  '284': Master Survivor
+  '285': Master Survivor
+  '286': Master Survivor
+  '287': Master Survivor
+  '288': Master Survivor
+  '289': Master Survivor
+  '290': Ultimate Survivor
+  '291': Ultimate Survivor
+  '292': Ultimate Survivor
+  '293': Ultimate Survivor
+  '294': Ultimate Survivor
+  '295': Ultimate Survivor
+  '296': Ultimate Survivor
+  '297': Ultimate Survivor
+  '298': Ultimate Survivor
+  '299': Ultimate Survivor
+  '300': Legendary Survivor
+Rank_Names:
+  '1': Noob
+  '2': Noob
+  '3': Noob
+  '4': Noob
+  '5': Noob
+  '6': Noob
+  '7': Noob
+  '8': Noob
+  '9': Noob
+  '10': Newbie
+  '11': Newbie
+  '12': Newbie
+  '13': Newbie
+  '14': Newbie
+  '15': Newbie
+  '16': Newbie
+  '17': Newbie
+  '18': Newbie
+  '19': Newbie
+  '20': Beginner
+  '21': Beginner
+  '22': Beginner
+  '23': Beginner
+  '24': Beginner
+  '25': Beginner
+  '26': Beginner
+  '27': Beginner
+  '28': Beginner
+  '29': Beginner
+  '30': Beginner
+  '31': Pre-Amateur
+  '32': Pre-Amateur
+  '33': Pre-Amateur
+  '34': Pre-Amateur
+  '35': Pre-Amateur
+  '36': Pre-Amateur
+  '37': Pre-Amateur
+  '38': Pre-Amateur
+  '39': Pre-Amateur
+  '40': Amateur
+  '41': Amateur
+  '42': Amateur
+  '43': Amateur
+  '44': Amateur
+  '45': Amateur
+  '46': Amateur
+  '47': Amateur
+  '48': Amateur
+  '49': Amateur
+  '50': Pre-Intermediate
+  '51': Pre-Intermediate
+  '52': Pre-Intermediate
+  '53': Pre-Intermediate
+  '54': Pre-Intermediate
+  '55': Pre-Intermediate
+  '56': Pre-Intermediate
+  '57': Pre-Intermediate
+  '58': Pre-Intermediate
+  '59': Pre-Intermediate
+  '60': Intermediate
+  '61': Intermediate
+  '62': Intermediate
+  '63': Intermediate
+  '64': Intermediate
+  '65': Intermediate
+  '66': Intermediate
+  '67': Intermediate
+  '68': Intermediate
+  '69': Intermediate
+  '70': Scavenger
+  '71': Scavenger
+  '72': Scavenger
+  '73': Scavenger
+  '74': Scavenger
+  '75': Scavenger
+  '76': Scavenger
+  '77': Scavenger
+  '78': Scavenger
+  '79': Scavenger
+  '80': Survivor
+  '81': Survivor
+  '82': Survivor
+  '83': Survivor
+  '84': Survivor
+  '85': Survivor
+  '86': Survivor
+  '87': Survivor
+  '88': Survivor
+  '89': Survivor
+  '90': Citizen
+  '91': Citizen
+  '92': Citizen
+  '93': Citizen
+  '94': Citizen
+  '95': Citizen
+  '96': Citizen
+  '97': Citizen
+  '98': Citizen
+  '99': Citizen
+  '100': Respected
+  '101': Respected
+  '102': Respected
+  '103': Respected
+  '104': Respected
+  '105': Respected
+  '106': Respected
+  '107': Respected
+  '108': Respected
+  '109': Respected
+  '110': Hunter
+  '111': Hunter
+  '112': Hunter
+  '113': Hunter
+  '114': Hunter
+  '115': Hunter
+  '116': Hunter
+  '117': Hunter
+  '118': Hunter
+  '119': Hunter
+  '120': Noble
+  '121': Noble
+  '122': Noble
+  '123': Noble
+  '124': Noble
+  '125': Noble
+  '126': Noble
+  '127': Noble
+  '128': Noble
+  '129': Noble
+  '130': Knight
+  '131': Knight
+  '132': Knight
+  '133': Knight
+  '134': Knight
+  '135': Knight
+  '136': Knight
+  '137': Knight
+  '138': Knight
+  '139': Knight
+  '140': Warrior
+  '141': Warrior
+  '142': Warrior
+  '143': Warrior
+  '144': Warrior
+  '145': Warrior
+  '146': Warrior
+  '147': Warrior
+  '148': Warrior
+  '149': Warrior
+  '150': Advanced Warrior
+  '151': Advanced Warrior
+  '152': Advanced Warrior
+  '153': Advanced Warrior
+  '154': Advanced Warrior
+  '155': Advanced Warrior
+  '156': Advanced Warrior
+  '157': Advanced Warrior
+  '158': Advanced Warrior
+  '159': Advanced Warrior
+  '160': Prestige
+  '161': Prestige
+  '162': Prestige
+  '163': Prestige
+  '164': Prestige
+  '165': Prestige
+  '166': Prestige
+  '167': Prestige
+  '168': Prestige
+  '169': Prestige
+  '170': Leader
+  '171': Leader
+  '172': Leader
+  '173': Leader
+  '174': Leader
+  '175': Leader
+  '176': Leader
+  '177': Leader
+  '178': Leader
+  '179': Leader
+  '180': Superior Leader
+  '181': Superior Leader
+  '182': Superior Leader
+  '183': Superior Leader
+  '184': Superior Leader
+  '185': Superior Leader
+  '186': Superior Leader
+  '187': Superior Leader
+  '188': Superior Leader
+  '189': Superior Leader
+  '190': Supreme Leader
+  '191': Supreme Leader
+  '192': Supreme Leader
+  '193': Supreme Leader
+  '194': Supreme Leader
+  '195': Supreme Leader
+  '196': Supreme Leader
+  '197': Supreme Leader
+  '198': Supreme Leader
+  '199': Supreme Leader
+  '200': Master Leader
+  '201': Master Leader
+  '203': Master Leader
+  '204': Master Leader
+  '205': Master Leader
+  '206': Master Leader
+  '207': Master Leader
+  '208': Master Leader
+  '209': Master Leader
+  '210': Veteran
+  '211': Veteran
+  '212': Veteran
+  '213': Veteran
+  '214': Veteran
+  '215': Veteran
+  '216': Veteran
+  '217': Veteran
+  '218': Veteran
+  '219': Veteran
+  '220': Advanced Veteran
+  '221': Advanced Veteran
+  '222': Advanced Veteran
+  '223': Advanced Veteran
+  '224': Advanced Veteran
+  '225': Advanced Veteran
+  '226': Advanced Veteran
+  '227': Advanced Veteran
+  '228': Advanced Veteran
+  '229': Advanced Veteran
+  '230': Extreme Veteran
+  '231': Extreme Veteran
+  '232': Extreme Veteran
+  '233': Extreme Veteran
+  '234': Extreme Veteran
+  '235': Extreme Veteran
+  '236': Extreme Veteran
+  '237': Extreme Veteran
+  '238': Extreme Veteran
+  '239': Extreme Veteran
+  '240': Titan
+  '241': Titan
+  '242': Titan
+  '243': Titan
+  '244': Titan
+  '245': Titan
+  '246': Titan
+  '247': Titan
+  '248': Titan
+  '249': Titan
+  '250': Legend
+  '251': Legend
+  '252': Legend
+  '253': Legend
+  '254': Legend
+  '255': Legend
+  '256': Legend
+  '257': Legend
+  '258': Legend
+  '259': Legend
+  '260': Expert Survivor
+  '261': Expert Survivor
+  '262': Expert Survivor
+  '263': Expert Survivor
+  '264': Expert Survivor
+  '265': Expert Survivor
+  '266': Expert Survivor
+  '267': Expert Survivor
+  '268': Expert Survivor
+  '269': Expert Survivor
+  '270': Extreme Survivor
+  '271': Extreme Survivor
+  '272': Extreme Survivor
+  '273': Extreme Survivor
+  '274': Extreme Survivor
+  '275': Extreme Survivor
+  '276': Extreme Survivor
+  '277': Extreme Survivor
+  '278': Extreme Survivor
+  '279': Extreme Survivor
+  '280': Master Survivor
+  '281': Master Survivor
+  '282': Master Survivor
+  '283': Master Survivor
+  '284': Master Survivor
+  '285': Master Survivor
+  '286': Master Survivor
+  '287': Master Survivor
+  '288': Master Survivor
+  '289': Master Survivor
+  '290': Ultimate Survivor
+  '291': Ultimate Survivor
+  '292': Ultimate Survivor
+  '293': Ultimate Survivor
+  '294': Ultimate Survivor
+  '295': Ultimate Survivor
+  '296': Ultimate Survivor
+  '297': Ultimate Survivor
+  '298': Ultimate Survivor
+  '299': Ultimate Survivor
+  '300': §5Legendary Penis Maker
